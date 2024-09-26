@@ -131,10 +131,10 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dc1e7f36539c28a00800000000000000
-      internalID: 757388918499303885
+      spriteID: 840ef5254deed446ba1b8068b0b06c4a
+      internalID: 383523120
       vertices: []
       indices: 
       edges: []
@@ -146,16 +146,16 @@ TextureImporter:
         x: 11
         y: 22
         width: 11
-        height: 9
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f9bf77600aab38160800000000000000
-      internalID: 7026665040094165919
+      spriteID: 14aa24ee75ca041d4b2707b2416f2bb1
+      internalID: 1021046330
       vertices: []
       indices: 
       edges: []
@@ -166,17 +166,38 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 11
-        width: 22
-        height: 7
+        width: 11
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2a66f6964ad37c3a0800000000000000
-      internalID: -6645274948809038174
+      spriteID: f050459fcf9b445b1a4bb6f0796f8169
+      internalID: 1588197885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentDead_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d669ad64d1d47c6a1e48a6c992702a
+      internalID: -47581869
       vertices: []
       indices: 
       edges: []
@@ -184,14 +205,18 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a034698480c8c425eaf915f823b817a9
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PacStudentDead_0: 383523120
+      PacStudentDead_1: 1021046330
+      PacStudentDead_2: 1588197885
+      PacStudentDead_3: -47581869
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
