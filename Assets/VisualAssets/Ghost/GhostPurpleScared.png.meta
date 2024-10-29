@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GhostPurpleScared_0: -7293162871066972789
+      GhostPurpleScared_1: -4888321019333376987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
