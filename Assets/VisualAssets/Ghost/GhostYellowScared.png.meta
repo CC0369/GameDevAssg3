@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GhostYellowScared_0: 3006446668113179232
+      GhostYellowScared_1: -3638904335333039921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
