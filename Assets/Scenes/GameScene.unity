@@ -1950,7 +1950,6 @@ GameObject:
   - component: {fileID: 1681931731}
   - component: {fileID: 1681931733}
   - component: {fileID: 1681931732}
-  - component: {fileID: 1681931734}
   - component: {fileID: 1681931735}
   m_Layer: 0
   m_Name: PacStudent
@@ -2050,19 +2049,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1681931734
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1681931730}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4153bfee9c99f470199a629b1a5a7577, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 5
 --- !u!82 &1681931735
 AudioSource:
   m_ObjectHideFlags: 0
